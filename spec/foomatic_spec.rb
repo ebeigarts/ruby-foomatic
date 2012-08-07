@@ -2,7 +2,7 @@ require "spec_helper"
 
 describe Foomatic::DB do
   subject(:db) do
-    foomatic = Foomatic::DB.open(File.expand_path("../db", __FILE__))
+    Foomatic::DB.open(File.expand_path("../db", __FILE__))
   end
 
   describe "#printers" do
