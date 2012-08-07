@@ -1,5 +1,7 @@
 # ruby-foomatic
 
+[![Continuous Integration status](https://secure.travis-ci.org/ebeigarts/ruby-foomatic.png)](http://travis-ci.org/ebeigarts/ruby-foomatic)
+
 Ruby interface to the [Foomatic printer database](http://www.linuxfoundation.org/collaborate/workgroups/openprinting/databasefoomatic).
 
 ## Installation
